@@ -1,0 +1,7 @@
+name = "cache"
+main = "src/index.js"
+compatibility_date = "2022-09-01"
+
+kv_namespaces = [
+  { binding = "NAVBAR", id = "3d8e6bf8b550458f9f44ed645566e9a3", preview_id = "bdcaab2c541e44a8bc923e649700434e" }
+]
