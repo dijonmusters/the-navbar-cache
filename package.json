@@ -10,7 +10,9 @@
     "deploy": "wrangler publish"
   },
   "dependencies": {
+    "@graphql-yoga/common": "^2.12.11",
     "@notionhq/client": "^2.1.1",
+    "graphql": "^16.6.0",
     "marked": "^4.1.0",
     "notion-to-md": "^2.5.5"
   }
